@@ -10,6 +10,4 @@ A simple Python program that calculates a person's exact age in **years, months,
   - Months
   - Days
 - ✅ Validates future dates.
-- ⚠️ Handles invalid date formats gracefully.
-
 ---
