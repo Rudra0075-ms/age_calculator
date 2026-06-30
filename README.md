@@ -29,7 +29,10 @@ Enter:
 Example:
 
 ```text
-Enter the birthdate (DD/MM/YYYY): 15/08/2005
+```text
+Enter the birthdate (DD/MM/YYYY): 01/01/2007
 
-Age: 20 years, 10 months, and 15 days
+Age: 19 years, 5 months, and 29 days              
+```
+
 ```
